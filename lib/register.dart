@@ -111,6 +111,7 @@ class _registorState extends State<registor> {
                   borderRadius: BorderRadius.circular(10),
                 ),
                 label: Text(
+
                   'email',
                   style: TextStyle(color: Colors.red),
                 ),
